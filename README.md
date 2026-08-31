@@ -143,7 +143,8 @@ The receiver application displays the encrypted incoming stream, decrypted messa
 
 ### Hardware Setup
 
-![CipherDit Hardware Setup](images/hardware-setup.png)
+<img width="737" height="693" alt="image" src="https://github.com/user-attachments/assets/bb949a0c-a096-44d3-8b94-feca84a546b7" />
+
 
 Arduino Uno connected to the NRF24L01+ PA/LNA module through the SPI interface, with breadboard prototyping and USB serial connection.
 
