@@ -172,12 +172,6 @@ Arduino IDE Serial Monitor output showing transmitter/receiver status and receiv
 - SD-card message logging
 - Android application integration
 
-## Project Information
 
-**Project:** CipherDit – Encrypted Wireless Morse Communication System  
-**Institution:** Lovely Professional University  
-**Project Type:** ETP Project  
-**Date:** April 2026  
-**Authors:** Yashika Bhatia and Roshan Parmar
 
 > This README is based on the project report and its documented hardware setup, software architecture, methodology, images, and measured results.
